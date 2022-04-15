@@ -1,2 +1,4 @@
 # Game-Of-Life
-Implementation of the game of life algorithm
+This is a Javascript implementation of the game of life algorithm
+
+<img src="gameoflife.gif"/>
